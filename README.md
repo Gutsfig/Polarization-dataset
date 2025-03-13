@@ -5,7 +5,7 @@ Here are some of the polarisation image datasets that I collected.There are gene
 
 |标题|论文|地址|连接|类型|日期|
 |-|-|-|-|-|-|
-|PCOD_1200|Camouflaged Object Detection Based on Multi-Dimensional Polarization Information|[github]()|[link1](),[lingk2]()|可见光/伪装探测|2024|
+|PCOD_1200|Camouflaged Object Detection Based on Multi-Dimensional Polarization Information|[github](https://github.com/CVhfut/POL4Net?tab=readme-ov-file)|[link1](https://drive.usercontent.google.com/download?id=1cflvU9lAHaRFppMKlD0UG4xVNTkHVh6s&export=download&authuser=0),[lingk2]()|可见光/伪装探测|2024|
 
 
 
