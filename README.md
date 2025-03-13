@@ -5,8 +5,8 @@ Here are some of the polarisation image datasets that I collected.There are gene
 
 |标题|论文|地址|连接|类型|日期|
 |-|-|-|-|-|-|
-|PCOD_1200|Camouflaged Object Detection Based on Multi-Dimensional Polarization Information|[github](https://github.com/CVhfut/POL4Net?tab=readme-ov-file)|[link1](https://drive.usercontent.google.com/download?id=1cflvU9lAHaRFppMKlD0UG4xVNTkHVh6s&export=download&authuser=0),[lingk2]()|可见光/伪装探测|2024|
-|LDDRS|Full-Time Monocular Road Detection Using Zero-Distribution Prior of Angle of Polarization|[github](https://github.com/polwork/LDDRS)|[link1](https://drive.usercontent.google.com/download?id=1cflvU9lAHaRFppMKlD0UG4xVNTkHVh6s&export=download&authuser=0),[lingk2]()|长波红外偏振/道路|2020|
+|PCOD_1200|Camouflaged Object Detection Based on Multi-Dimensional Polarization Information|[github](https://github.com/CVhfut/POL4Net?tab=readme-ov-file)|[link1](https://drive.usercontent.google.com/download?id=1cflvU9lAHaRFppMKlD0UG4xVNTkHVh6s&export=download&authuser=0),[lingk2(1234)]()|可见光/伪装探测|2024|
+|LDDRS|Full-Time Monocular Road Detection Using Zero-Distribution Prior of Angle of Polarization|[github](https://github.com/polwork/LDDRS)|[link1(2113)](https://pan.baidu.com/s/1EiYgKmpPQuSLmP1VUdMlkQ ),[lingk2]()|长波红外偏振/道路|2020|
 
 
 
